@@ -1,6 +1,6 @@
 # Problema C
 
-## Expondo a Corrupção
+## [Expondo a Corrupção](https://judge.beecrowd.com/pt/problems/view/2008)
 
 ***Por Walter Erquínigo Pezo - Peru***
 

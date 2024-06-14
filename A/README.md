@@ -1,6 +1,6 @@
 # Problema A
 
-## Países em Guerra
+## [Países em Guerra](https://judge.beecrowd.com/pt/problems/view/1148)
 
 ***Por Alessandro Luna - Brasil***
 
